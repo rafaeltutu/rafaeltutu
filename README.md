@@ -5,16 +5,16 @@
   <a href = "https://www.linkedin.com/in/rafaeltutu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://instagram.com/rafael_beserra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
    <a href = "mailto:rafaeltutu19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 Sou desenvolvedor de aplicativos multiplataforma, android, ios ...
-
-- ❤ Desenvolvedor Flutter
+- 👨‍⚖️ Analista de sistemas
+- 🤍 Desenvolvedor Flutter
 - 💙 Desenvovimento Mobile
-- 👩‍💻 Aprendendo algo sobre back-end
+- 👩‍💻 Aprendendo algo sobre back-end(NodeJs)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
