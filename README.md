@@ -9,15 +9,13 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-Sou desenvolvedor de aplicativos, (https://github.com/rafaeltutu).
+Sou desenvolvedor de aplicativos multiplataforma, android, ios, (https://github.com/rafaeltutu).
 
 - ❤ Desenvolvedor Flutter
-- 💙 Desenvovimentp Mobile
+- 💙 Desenvovimento Mobile
 - 👩‍💻 Aprendendo algo sobre back-end
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -30,4 +28,6 @@ Sou desenvolvedor de aplicativos, (https://github.com/rafaeltutu).
 <div align = "left">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeltutu&show_icons=true&theme=bear&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=rafaeltutu&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+  
+    ![Snake animation](https://github.com/rafaeltutu/rafaeltutu/blob/output/github-contribution-grid-snake.svg)
 </div>
