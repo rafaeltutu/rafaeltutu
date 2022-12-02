@@ -10,7 +10,7 @@
    <a href = "mailto:rafaeltutu19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-Sou desenvolvedor de aplicativos multiplataforma, android, ios, (https://www.linkedin.com/in/rafaeltutu/).
+Sou desenvolvedor de aplicativos multiplataforma, android, ios (https://www.linkedin.com/in/rafaeltutu/).
 
 - ❤ Desenvolvedor Flutter
 - 💙 Desenvovimento Mobile
@@ -19,6 +19,8 @@ Sou desenvolvedor de aplicativos multiplataforma, android, ios, (https://www.lin
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
