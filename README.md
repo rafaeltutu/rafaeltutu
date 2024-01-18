@@ -13,7 +13,7 @@ Sou desenvolvedor de aplicativos multiplataforma, android, ios ...
 - 👨‍⚖️ Analista de sistemas
 - 🤍 Desenvolvedor Flutter
 - 💙 Desenvovimento Mobile
-- 👩‍💻 Aprendendo algo sobre back-end (Python)
+- 👩‍💻 Aprendendo sobre back-end (Python)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
